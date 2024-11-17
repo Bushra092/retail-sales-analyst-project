@@ -47,8 +47,6 @@ Your plan to simplify the report is an excellent idea, especially if your audien
 
 #### ** Conclusion**
 
-Summarize briefly:
-
 - **Clothing** is the top-selling category.
 - **46-55 age group** is the most valuable demographic.
 - Peak sales are in the **Evening shift** and during the **peak sales months** (September–December).
