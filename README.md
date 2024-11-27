@@ -45,7 +45,7 @@ Your plan to simplify the report is an excellent idea, especially if your audien
 
 ---
 
-#### ** Conclusion**
+#### **Conclusion**
 
 - **Clothing** is the top-selling category.
 - **46-55 age group** is the most valuable demographic.
@@ -53,7 +53,7 @@ Your plan to simplify the report is an excellent idea, especially if your audien
 
 ---
 
-#### ** Recommendations**
+#### **Recommendations**
 
 - Prioritize marketing campaigns during **Evening hours** when sales peak.
 - Launch promotions and offers during **September to December**, particularly December.
