@@ -1,10 +1,10 @@
 ### **Retail Sales Data Analysis Report**
 
-![Company Logo](https://github.com/Bushra092/retail-sales-analyst-project/blob/main/retailSales.png)
+![Company Logo](https://github.com/Bushra092/retail-sales-analyst-project/blob/main/image.png)
 
 #### **Objective**
 
-This report summarizes insights derived from a retail sales dataset using SQL queries to analyze various aspects of sales performance, customer behavior, and transactional trends.
+This report summarizes insights derived from a retail sales dataset using SQL queries to analyze sales performance, customer behavior, and transactional trends, and visualized using Power BI.
 
 ---
 
@@ -12,12 +12,9 @@ This report summarizes insights derived from a retail sales dataset using SQL qu
 
 The dataset includes:
 
-- **19 Attributes**: Transaction ID, sale date, time, customer demographics, product categories, quantity sold, pricing, COGS, and total sales.
-- **Transactions Analyzed**: 27 rows representing retail transactions.
+- **19 Attributes**: Transactions Id, Sale Date, Sale Time, Customer Id, Gender, age, Category, Quantiy, Price Per Unit, Cogs, Total Sale
 
----
-
-Your plan to simplify the report is an excellent idea, especially if your audience is not expecting a deep dive into every aspect of the analysis. Here's why and how you can refine it:
+- **Transactions Analyzed**: 1787 rows representing retail transactions.
 
 ---
 
@@ -45,7 +42,16 @@ Your plan to simplify the report is an excellent idea, especially if your audien
 
 ---
 
-#### **Conclusion**
+### **Tools Used**
+
+- **SQL**: For querying, cleaning, and analyzing sales data.
+- **Power BI**: To create an interactive dashboard visualizing monthly trends, and sales peaks.
+
+---
+
+#### ** Conclusion**
+
+Summarize briefly:
 
 - **Clothing** is the top-selling category.
 - **46-55 age group** is the most valuable demographic.
@@ -53,7 +59,7 @@ Your plan to simplify the report is an excellent idea, especially if your audien
 
 ---
 
-#### **Recommendations**
+#### ** Recommendations**
 
 - Prioritize marketing campaigns during **Evening hours** when sales peak.
 - Launch promotions and offers during **September to December**, particularly December.
