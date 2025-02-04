@@ -59,7 +59,7 @@ Summarize briefly:
 
 ---
 
-#### ** Recommendations**
+#### **Recommendations**
 
 - Prioritize marketing campaigns during **Evening hours** when sales peak.
 - Launch promotions and offers during **September to December**, particularly December.
